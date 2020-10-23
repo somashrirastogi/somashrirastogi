@@ -1,4 +1,4 @@
-# **Hola!! Somashri Here👋🏻**
+# ** *Hola!! Somashri Here*👋🏻**
 - 🏳 I am a Hard Working and a determined student always learning and looking for the oppurtunities. 
 - 🎓 Student
 - 🔭 I’m currently working on Web Development. 
