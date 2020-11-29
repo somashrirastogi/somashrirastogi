@@ -1,5 +1,5 @@
 # ***Hola!! Somashri Here👋🏻***
-- 🏳 I am a Hard Working and a determined student always learning and looking for the oppurtunities. 
+- 🏳 I am a Hard Working and a determined student always learning and looking for the opportunities. 
 - 🎓 Student
 - 🔭 I’m currently working on Web Development. 
 - 🌱 I’m currently learning Python.
