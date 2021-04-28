@@ -1,8 +1,7 @@
 # ***Hola!! Somashri Here👋🏻***
 - 🏳 I am a Hard Working and a determined student always learning and looking for the opportunities. 
 - 🎓 Student
-- 🔭 I’m currently working on Web Development. 
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on Web Development and Python
 - 📫 How to reach me:  🙋🏻‍♀️ [Linkedin](https://www.linkedin.com/feed/) 
                            [Portfolio](https://somashrirastogi.github.io/sresume/#page-top)
                             [Twitter](https://twitter.com/home)
